@@ -48,7 +48,7 @@ class ViewController: UIViewController {
      */
     func changeColor(sender: UISegmentedControl) {
         println("Change color handler is called.")
-        print("Changing Color to ")
+        println("Changing Color to ")
         switch sender.selectedSegmentIndex {
         case 1:
             self.view.backgroundColor = UIColor.greenColor()

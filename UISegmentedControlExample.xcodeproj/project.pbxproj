@@ -156,6 +156,8 @@
 		B3A9A7AB1A77005A0051574F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Richard Hsu";
 				TargetAttributes = {
@@ -405,6 +407,7 @@
 				B3A9A7D41A77005A0051574F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B3A9A7D51A77005A0051574F /* Build configuration list for PBXNativeTarget "UISegmentedControlExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				B3A9A7D71A77005A0051574F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
